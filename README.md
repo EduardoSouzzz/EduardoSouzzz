@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**EduardoSouzzz/EduardoSouzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+Sou o Eduardo, do Brasil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sou apaixonado por desenvolvimento em java e go e gosto de criar soluções práticas com código limpo e bem organizado.
+🎯 Atualmente focado em dominar **Java**, **POO**, **estrutura de dados** e seguir firme rumo ao desenvolvedor júnior.
+📚 Estudo diariamente para evoluir em Java, SQL e futuramente Spring Boot.
+🎮 No meu tempo livre, gosto de ouvir música enquanto programo!
+
+---
+
+## 🛠 Linguagens e Ferramentas
+
+### ✅ Tenho Experiência
+
+Java • Programação Orientada a Objetos • Estruturas de Dados
+
+### 📘 Estudando no Momento
+
+Golang • Coleções do Java • Exceptions • Generics • Git/GitHub • Spring Boot (em breve)
+
+---
+
+## 💬 Contato
+
+📩 Email: *edudu1910@gmail.com*
+📸 Instagram: *Avilazz8_*
+
+---
+
