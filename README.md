@@ -18,7 +18,7 @@ Java • Programação Orientada a Objetos •
 
 ### 📘 Estudando no Momento
 
-Golang • Coleções do Java • Exceptions • Generics • Git/GitHub • Spring Boot (em breve)
+Golang • JDBC/MySQL • Spring Boot (em breve)
 
 ---
 
