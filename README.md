@@ -14,7 +14,7 @@ Sou o Eduardo, do Brasil!
 
 ### ✅ Tenho Experiência
 
-Java • Programação Orientada a Objetos • Estruturas de Dados
+Java • Programação Orientada a Objetos • 
 
 ### 📘 Estudando no Momento
 
